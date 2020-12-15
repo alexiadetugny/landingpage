@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kurale&display=swap');
+
+@import url('components/container.css');
+@import url('components/social.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+
+body {
+	font-family: 'Kurale', serif;
+}
+
+h1 {
+	font-family: 'Bebas Neue', cursive;
+}
+a{
+	text-decoration: none;
+}
+
